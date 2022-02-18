@@ -1,0 +1,11 @@
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.vbprojAssemblyReference.cache
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.Resources.resources
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.vbproj.GenerateResource.cache
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.vbproj.CoreCompileInputs.cache
+C:\Users\Inspiron15\source\repos\201907496\_201907496\bin\Debug\_201907496.exe.config
+C:\Users\Inspiron15\source\repos\201907496\_201907496\bin\Debug\_201907496.exe
+C:\Users\Inspiron15\source\repos\201907496\_201907496\bin\Debug\_201907496.pdb
+C:\Users\Inspiron15\source\repos\201907496\_201907496\bin\Debug\_201907496.xml
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.exe
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.xml
+C:\Users\Inspiron15\source\repos\201907496\_201907496\obj\Debug\_201907496.pdb
